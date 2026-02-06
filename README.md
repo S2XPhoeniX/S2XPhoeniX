@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @S2XPhoeniX
+- 👋 Hi, I’m Asmit
 - 👀 I’m interested in coding and learning 
-- 🌱 I’m currently learning some sorh of languages 
+- 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate with some people.
-- 📫 How to reach me... Telegram - @Alone_Phoenix_141
+  
 
 <!---
 S2XPhoeniX/S2XPhoeniX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
